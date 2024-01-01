@@ -6,7 +6,7 @@ Then I completed the other basic runes based on [Bloodborne Caryll Rune Vectors]
 
 And attach an additional [data table(中文)](data_translate.md) here. Refer to:
 
-- [Caryi Runes](https://www.bloodborne-wiki.com/p/caryll-runes.html  )
+- [Caryll Runes](https://www.bloodborne-wiki.com/p/caryll-runes.html  )
 - [《血源诅咒》 卡莱尔符文](https://gamegene.cn/wiki/133  )
 - [血源 全符文效果及获取方式一览 符文怎么获取](https://www.gamersky.com/handbook/201504/557548.shtml)
 
