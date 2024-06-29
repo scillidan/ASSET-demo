@@ -15,10 +15,25 @@ If the location of your taskbar is different from mine, you may need to adjust i
 ![](lightTheme_preview.png)
 ![](darkTheme_preview.png)
 
-## Tools Used
+## Tools
 
 - Photoshop
 - [pngtosvg](https://www.pngtosvg.com)
+- [ImageMagick](https://imagemagick.org)
+
+## Notes
+
+Create `lightTheme` from `darkTheme`:
+
+```sh
+magick convert darkThemeImage.png -channel RGB -negate lightThemeImage.png
+```
+
+Stitch `lightTheme` images:
+
+```sh
+magick montage light* -geometry +0+0 -tile x1 -background #fff lightTheme.png 
+```
 
 ## Attributive
 
