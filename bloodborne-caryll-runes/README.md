@@ -10,9 +10,10 @@ And attach an additional [data table(中文)](data_translate.md) here. Refer to:
 - [《血源诅咒》 卡莱尔符文](https://gamegene.cn/wiki/133  )
 - [血源 全符文效果及获取方式一览 符文怎么获取](https://www.gamersky.com/handbook/201504/557548.shtml)
 
-If the location of your taskbar is different from mine, you may need to adjust it by yourself. Preview at 2560x1440 resolution:
+If the location of your taskbar is different from mine, you may need to adjust it by yourself. Preview on my desktop at 2560x1440 resolution:
 
-![](bloodborne-caryll-runes_openshell.png)
+![](lightTheme_preview.png)
+![](darkTheme_preview.png)
 
 ## Tools Used
 
