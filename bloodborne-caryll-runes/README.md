@@ -32,8 +32,18 @@ magick convert darkThemeImage.png -channel RGB -negate lightThemeImage.png
 Stitch `lightTheme` images:
 
 ```sh
-magick montage light* -geometry +0+0 -tile x1 -background #fff lightTheme.png 
+magick montage img1 img2 ... -geometry +0+0 -tile x1 -background #fff lightTheme.png 
 ```
+
+Under `png/`, make icon image for menu of xfce (on Arch Linux):
+
+```sh
+magick convert -resize x100 -gravity center -extent 100x100 -background none input.png output.png
+```
+
+![](darkTheme_preview_arch.png)
+
+But for the actual display, you may need to make adjustments yourself.
 
 ## Attributive
 
